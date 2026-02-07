@@ -1,0 +1,14 @@
+/Users/masonzarges/RiderProjects/Mission5/Mission_5 /Mission_5 /bin/Debug/net10.0/Mission_5
+/Users/masonzarges/RiderProjects/Mission5/Mission_5 /Mission_5 /bin/Debug/net10.0/Mission_5.deps.json
+/Users/masonzarges/RiderProjects/Mission5/Mission_5 /Mission_5 /bin/Debug/net10.0/Mission_5.runtimeconfig.json
+/Users/masonzarges/RiderProjects/Mission5/Mission_5 /Mission_5 /bin/Debug/net10.0/Mission_5.dll
+/Users/masonzarges/RiderProjects/Mission5/Mission_5 /Mission_5 /bin/Debug/net10.0/Mission_5.pdb
+/Users/masonzarges/RiderProjects/Mission5/Mission_5 /Mission_5 /obj/Debug/net10.0/Mission_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masonzarges/RiderProjects/Mission5/Mission_5 /Mission_5 /obj/Debug/net10.0/Mission_5.AssemblyInfoInputs.cache
+/Users/masonzarges/RiderProjects/Mission5/Mission_5 /Mission_5 /obj/Debug/net10.0/Mission_5.AssemblyInfo.cs
+/Users/masonzarges/RiderProjects/Mission5/Mission_5 /Mission_5 /obj/Debug/net10.0/Mission_5.csproj.CoreCompileInputs.cache
+/Users/masonzarges/RiderProjects/Mission5/Mission_5 /Mission_5 /obj/Debug/net10.0/Mission_5.dll
+/Users/masonzarges/RiderProjects/Mission5/Mission_5 /Mission_5 /obj/Debug/net10.0/refint/Mission_5.dll
+/Users/masonzarges/RiderProjects/Mission5/Mission_5 /Mission_5 /obj/Debug/net10.0/Mission_5.pdb
+/Users/masonzarges/RiderProjects/Mission5/Mission_5 /Mission_5 /obj/Debug/net10.0/Mission_5.genruntimeconfig.cache
+/Users/masonzarges/RiderProjects/Mission5/Mission_5 /Mission_5 /obj/Debug/net10.0/ref/Mission_5.dll
